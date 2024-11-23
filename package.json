@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "chai": "^2.2.0",
-    "mocha": "^6.2.2",
+    "mocha": "^10.8.2",
     "node-sass": "^9.0.0",
     "request-promise": "^4.2.2",
     "selenium-webdriver": "4.26.0"
